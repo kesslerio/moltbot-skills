@@ -14,6 +14,10 @@ This repository serves as an index of Moltbot skills authored by [kesslerio](htt
 |-------|-------------|------|
 | **activecampaign** | ActiveCampaign CRM integration for lead management, deal tracking, and email automation | [kesslerio/activecampaign-moltbot-skill-public](https://github.com/kesslerio/activecampaign-moltbot-skill-public) |
 | **attio** | Attio CRM integration — search, create, update companies, people, deals, tasks, and notes | [kesslerio/attio-moltbot-skill](https://github.com/kesslerio/attio-moltbot-skill) |
+| **calendly** | Calendly scheduling integration — list events, check availability, manage meetings | [kesslerio/calendly-moltbot-skill](https://github.com/kesslerio/calendly-moltbot-skill) |
+| **dialpad** | Send SMS and make voice calls via Dialpad API | [kesslerio/shapescale-moltbot-skills](https://github.com/kesslerio/shapescale-moltbot-skills) |
+| **dex** | Dex personal CRM — manage contacts, notes, reminders, and relationships | [kesslerio/dex-moltbot-skill](https://github.com/kesslerio/dex-moltbot-skill) |
+| **phone-agent** | AI phone agent using Twilio, Deepgram, and ElevenLabs for real-time voice calls | [kesslerio/niemand-phone-agent](https://github.com/kesslerio/niemand-phone-agent) |
 | **stripe-cli** | Stripe CLI integration for managing payments, customers, and subscriptions | [kesslerio/stripe-cli-moltbot-skill](https://github.com/kesslerio/stripe-cli-moltbot-skill) |
 
 ---
@@ -55,11 +59,10 @@ This repository serves as an index of Moltbot skills authored by [kesslerio](htt
 
 ---
 
-## 🏔️ Outdoor & Travel
+## 👨‍👩‍👧‍👦 Family
 
 | Skill | Description | Repo |
 |-------|-------------|------|
-| **alltrails** | Search hiking trails near any location | [kesslerio/alltrails-moltbot-skill](https://github.com/kesslerio/alltrails-moltbot-skill) |
 | **babyconnect-browser** | Log baby activities (bottles, nursing, diapers, sleep) to Baby Connect | [kesslerio/babyconnect-browser-moltbot-skill](https://github.com/kesslerio/babyconnect-browser-moltbot-skill) |
 
 ---
@@ -70,10 +73,12 @@ Looking for more skills? Check out the [ClawdHub Skill Registry](https://clawdhu
 
 | Skill | Description | Source |
 |-------|-------------|--------|
+| **alltrails** | Search hiking trails near any location | Web search |
+| **better-notion** | Enhanced Notion integration with full CRUD operations | [kesslerio/shapescale-moltbot-skills](https://github.com/kesslerio/shapescale-moltbot-skills) |
 | **bird** | X/Twitter CLI for reading and posting | [GitHub](https://github.com/steipete/bird) @steipete |
 | **context7** | Intelligent documentation search | [context7.com](https://context7.com) |
-| **dex** | Personal CRM for contacts and relationships | [GitHub](https://github.com/jaybna/dex-crm-skill) @jaybna |
 | **elevenlabs** | Text-to-speech using ElevenLabs AI voices | API integration |
+| **fathom** | Fathom AI call recordings, transcripts, and summaries | [kesslerio/shapescale-moltbot-skills](https://github.com/kesslerio/shapescale-moltbot-skills) |
 | **github** | GitHub CLI integration | Uses official `gh` CLI |
 | **goplaces** | Google Places API integration | [GitHub](https://github.com/steipete/goplaces) @steipete |
 | **llm-council** | Multi-member planning council | Custom |
