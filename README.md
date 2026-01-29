@@ -59,24 +59,27 @@ This repository serves as an index of Moltbot skills authored by [kesslerio](htt
 
 Looking for more skills? Check out the [ClawdHub Skill Registry](https://clawdhub.com) for community-contributed skills including:
 
-- **alltrails** — Search hiking trails near any location
-- **babyconnect-browser** — Log baby activities to Baby Connect
-- **bird** — X/Twitter CLI for reading and posting
-- **context7** — Intelligent documentation search
-- **dex** — Personal CRM for contacts and relationships
-- **elevenlabs** — Text-to-speech using ElevenLabs AI voices
-- **github** — GitHub CLI integration
-- **goplaces** — Google Places API integration
-- **llm-council** — Multi-member planning council
-- **personas** — 31 specialized AI personalities
-- **qmd** — Local search/indexing with vectors
-- **research** — Deep research via Gemini CLI
-- **skillcraft** — Opinionated design guide for creating Moltbot skills
-- **summarize** — Summarize URLs, PDFs, videos
-- **therapy-mode** — AI-assisted therapeutic support
-- **tmux** — Remote-control tmux sessions
-- **weather** — Current weather and forecasts
-- And more...
+| Skill | Description | Source |
+|-------|-------------|--------|
+| **alltrails** | Search hiking trails near any location | Web search |
+| **babyconnect-browser** | Log baby activities to Baby Connect | Custom |
+| **bird** | X/Twitter CLI for reading and posting | [GitHub](https://github.com/steipete/bird) @steipete |
+| **context7** | Intelligent documentation search | [context7.com](https://context7.com) |
+| **dex** | Personal CRM for contacts and relationships | [GitHub](https://github.com/jaybna/dex-crm-skill) @jaybna |
+| **elevenlabs** | Text-to-speech using ElevenLabs AI voices | API integration |
+| **github** | GitHub CLI integration | Uses official `gh` CLI |
+| **goplaces** | Google Places API integration | [GitHub](https://github.com/steipete/goplaces) @steipete |
+| **llm-council** | Multi-member planning council | Custom |
+| **personas** | 31 specialized AI personalities | [GitHub](https://github.com/robbyczgw-cla/moltbot-personas) / [ClawdHub](https://clawdhub.com/robbyczgw-cla/personas) |
+| **qmd** | Local search/indexing with vectors | [GitHub](https://github.com/tobi/qmd) @tobi |
+| **research** | Deep research via Gemini CLI | Uses `gemini-cli` |
+| **skillcraft** | Opinionated design guide for creating Moltbot skills | [GitHub](https://github.com/moltbot/skillcraft) |
+| **summarize** | Summarize URLs, PDFs, videos | [summarize.sh](https://summarize.sh) |
+| **therapy-mode** | AI-assisted therapeutic support | Custom |
+| **tmux** | Remote-control tmux sessions | Uses tmux CLI |
+| **weather** | Current weather and forecasts | Uses wttr.in/Open-Meteo APIs |
+
+And more on [ClawdHub](https://clawdhub.com)!
 
 ---
 
