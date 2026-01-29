@@ -55,14 +55,21 @@ This repository serves as an index of Moltbot skills authored by [kesslerio](htt
 
 ---
 
+## 🏔️ Outdoor & Travel
+
+| Skill | Description | Repo |
+|-------|-------------|------|
+| **alltrails** | Search hiking trails near any location | [kesslerio/alltrails-moltbot-skill](https://github.com/kesslerio/alltrails-moltbot-skill) |
+| **babyconnect-browser** | Log baby activities (bottles, nursing, diapers, sleep) to Baby Connect | [kesslerio/babyconnect-browser-moltbot-skill](https://github.com/kesslerio/babyconnect-browser-moltbot-skill) |
+
+---
+
 ## 🌐 Community Skills
 
 Looking for more skills? Check out the [ClawdHub Skill Registry](https://clawdhub.com) for community-contributed skills including:
 
 | Skill | Description | Source |
 |-------|-------------|--------|
-| **alltrails** | Search hiking trails near any location | Web search |
-| **babyconnect-browser** | Log baby activities to Baby Connect | Custom |
 | **bird** | X/Twitter CLI for reading and posting | [GitHub](https://github.com/steipete/bird) @steipete |
 | **context7** | Intelligent documentation search | [context7.com](https://context7.com) |
 | **dex** | Personal CRM for contacts and relationships | [GitHub](https://github.com/jaybna/dex-crm-skill) @jaybna |
