@@ -43,7 +43,6 @@ This repository serves as an index of Moltbot skills authored by [kesslerio](htt
 |-------|-------------|------|
 | **coding-agent** | Coding assistant with Codex MCP for reviews, refactoring, and implementation | [kesslerio/coding-agent-moltbot-skill](https://github.com/kesslerio/coding-agent-moltbot-skill) |
 | **lobster-jobs** | Transform Moltbot cron jobs into Lobster workflows | [kesslerio/lobster-moltbot-skill](https://github.com/kesslerio/lobster-moltbot-skill) |
-| **skillcraft** | Opinionated design guide for creating Moltbot skills | [kesslerio/skillcraft-moltbot-skill](https://github.com/kesslerio/skillcraft-moltbot-skill) |
 | **task-tracker** | Personal task management with daily standups and weekly reviews | [kesslerio/task-tracker-moltbot-skill](https://github.com/kesslerio/task-tracker-moltbot-skill) |
 
 ---
@@ -72,6 +71,7 @@ Looking for more skills? Check out the [ClawdHub Skill Registry](https://clawdhu
 - **personas** — 31 specialized AI personalities
 - **qmd** — Local search/indexing with vectors
 - **research** — Deep research via Gemini CLI
+- **skillcraft** — Opinionated design guide for creating Moltbot skills
 - **summarize** — Summarize URLs, PDFs, videos
 - **therapy-mode** — AI-assisted therapeutic support
 - **tmux** — Remote-control tmux sessions
