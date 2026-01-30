@@ -52,6 +52,13 @@ This repository serves as an index of Moltbot skills authored by [kesslerio](htt
 
 ---
 
+## 📄 PDF & Documents
+
+| Skill | Description | Repo |
+|-------|-------------|------|
+| **MinerU-PDF-Parser** | Parse PDFs to Markdown/HTML with layout analysis using MinerU | [kesslerio/MinerU-PDF-Parser-Moltbot-Skill](https://github.com/kesslerio/MinerU-PDF-Parser-Moltbot-Skill) |
+| **PyMuPDF-PDF-Parser** | Extract text, images, and metadata from PDFs using PyMuPDF | [kesslerio/PyMuPDF-PDF-Parser-Moltbot-Skill](https://github.com/kesslerio/PyMuPDF-PDF-Parser-Moltbot-Skill) |
+
 ## 🔧 Utilities
 
 | Skill | Description | Repo |
