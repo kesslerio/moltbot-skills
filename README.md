@@ -56,6 +56,7 @@ This repository serves as an index of Moltbot skills authored by [kesslerio](htt
 
 | Skill | Description | Repo |
 |-------|-------------|------|
+| **imagemagick** | Comprehensive ImageMagick operations — bg removal, resize, format conversion, watermarks, thumbnails | [kesslerio/imagemagick-moltbot-skill](https://github.com/kesslerio/imagemagick-moltbot-skill) |
 | **shorten** | Shorten URLs using is.gd (no auth required) | [kesslerio/url-shortener-moltbot-skill](https://github.com/kesslerio/url-shortener-moltbot-skill) |
 
 ---
