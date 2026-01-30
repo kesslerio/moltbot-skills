@@ -13,6 +13,7 @@ This repository serves as an index of Moltbot skills authored by [kesslerio](htt
 | Skill | Description | Repo |
 |-------|-------------|------|
 | **activecampaign** | ActiveCampaign CRM integration for lead management, deal tracking, and email automation | [kesslerio/activecampaign-moltbot-skill-public](https://github.com/kesslerio/activecampaign-moltbot-skill-public) |
+| **apollo-io** | Apollo.io sales intelligence — search 210M+ contacts, enrich leads, research companies | [kesslerio/apollo-io-skill](https://github.com/kesslerio/apollo-io-skill) |
 | **attio** | Attio CRM integration — search, create, update companies, people, deals, tasks, and notes | [kesslerio/attio-moltbot-skill](https://github.com/kesslerio/attio-moltbot-skill) |
 | **calendly** | Calendly scheduling integration — list events, check availability, manage meetings | [kesslerio/calendly-moltbot-skill](https://github.com/kesslerio/calendly-moltbot-skill) |
 | **dialpad** | Send SMS and make voice calls via Dialpad API | [kesslerio/shapescale-moltbot-skills](https://github.com/kesslerio/shapescale-moltbot-skills) |
