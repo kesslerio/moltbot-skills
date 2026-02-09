@@ -86,6 +86,7 @@ Looking for more skills? Check out the [ClawdHub Skill Registry](https://clawdhu
 | **better-notion** | Enhanced Notion integration with full CRUD operations | [kesslerio/shapescale-moltbot-skills](https://github.com/kesslerio/shapescale-moltbot-skills) |
 | **bird** | X/Twitter CLI for reading and posting | [GitHub](https://github.com/steipete/bird) @steipete |
 | **context7** | Intelligent documentation search | [context7.com](https://context7.com) |
+| **clawdtalk** | Voice AI phone calling and SMS integration with calendar, Jira, and web search | [team-telnyx/clawdtalk-client](https://github.com/team-telnyx/clawdtalk-client) |
 | **elevenlabs** | Text-to-speech using ElevenLabs AI voices | API integration |
 | **fathom** | Fathom AI call recordings, transcripts, and summaries | [kesslerio/shapescale-moltbot-skills](https://github.com/kesslerio/shapescale-moltbot-skills) |
 | **github** | GitHub CLI integration | Uses official `gh` CLI |
